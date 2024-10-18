@@ -94,7 +94,7 @@ export default function ExperiencePage({ scrollToSection }) {
                       developing cross-functional insights essential for scaling startups.
                     </p>
                     <p className="text-md-start">
-                      Collaborated closely with the CEO and Founder of **WEST X EAST** to oversee web development and brand strategy, 
+                      Collaborated closely with the CEO and Founder of WEST X EAST to oversee web development and brand strategy, 
                       ensuring consistent growth and customer engagement across multiple channels.
                     </p>
                     <p className="text-md-start">
