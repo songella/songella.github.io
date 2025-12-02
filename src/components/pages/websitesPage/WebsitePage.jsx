@@ -58,7 +58,7 @@ export default function WebsitePage({ scrollToSection }) {
               <Row className="justify-content-md-center">
                 <Col>
                   <Button variant="outline-light">
-                    <a href={"https://github.com/IbrahimMoftah329/Capstone"}>
+                    <a href={"https://github.com/songella/cardmates"}>
                       Go to site
                     </a>
                   </Button>
@@ -105,7 +105,7 @@ export default function WebsitePage({ scrollToSection }) {
               <Row className="justify-content-md-center">
                 <Col>
                   <Button variant="outline-light">
-                    <a href={"https://main.d26tmz9i1hd3cm.amplifyapp.com"}>
+                    <a href={"https://main.dwf97j5haqpio.amplifyapp.com/"}>
                       Go to site
                     </a>
                   </Button>

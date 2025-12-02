@@ -23,13 +23,13 @@ export default function IntroPage({ scrollToSection }) {
           </Row>
           <Row>
             <p class="text-md-start" style={{ fontSize: "4em" }}>
-              Technologist, Researcher, Designer
+              Creative Technologist
             </p>
             <span
               class="text-md-start"
               style={{ fontSize: "1.4em", opacity: "50%" }}
             >
-              Computer Science and Psychology B.A Hunter '24
+               Computer Science and Psychology B.A Hunter CUNY
             </span>
           </Row>
         </Col>
