@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkella_website=self.webpackChunkella_website||[]).push([[5024],{5024:(e,t,a)=>{a.d(t,{drawStar:()=>o});const s=2,l={x:0,y:0};function o(e){var t;const{context:a,particle:o,radius:n}=e,i=o.sides,r=null!==(t=o.starInset)&&void 0!==t?t:s;a.moveTo(l.x,l.y-n);for(let s=0;s<i;s++)a.rotate(Math.PI/i),a.lineTo(l.x,l.y-n*r),a.rotate(Math.PI/i),a.lineTo(l.x,l.y-n)}}}]);
+//# sourceMappingURL=5024.c5b4f001.chunk.js.map

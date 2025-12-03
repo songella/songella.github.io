@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkella_website=self.webpackChunkella_website||[]).push([[9074],{9074:(a,l,e)=>{function t(a){const{context:l,particle:e,radius:t,opacity:i}=a,o=e.emojiData,s=2*t,c=l.globalAlpha;o&&(l.globalAlpha=i,l.drawImage(o,-t,-t,s,s),l.globalAlpha=c)}e.d(l,{drawEmoji:()=>t})}}]);
+//# sourceMappingURL=9074.897bd4b2.chunk.js.map
